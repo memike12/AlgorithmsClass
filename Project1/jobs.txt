@@ -1,0 +1,1182 @@
+Basic Administrative Marine	
+Basic Personnel and Administrative Officer	
+Personnel Officer	
+Civil Affairs Officer	
+Personnel Clerk	
+Administrative Officer	
+Unit Diary Clerk	
+Administrative Man	
+Administrative Clerk	
+Postal Officer	
+Postal Clerk	
+Personnel Officer	
+Administrative Control Unit Specialist	
+Adjutant	
+Personnel Chief	
+Trial/Defense Counsel Officer	
+Personnel/Administrative Chief	
+Basic Intelligence Marine	
+Basic Intelligence Officer	
+Intelligence Officer	
+Tactical Intelligence Officer	
+Counterintelligence Officer	
+Counterintelligence Specialist	
+Intelligence Specialist	
+Intelligence Assistant	
+Imagery Interpretation Officer	
+Imagery Interpretation Specialist	
+Interrogation-Translation Officer	
+Interrogation/Translation Specialist	
+Geographic Intelligence Officer	
+Geographic Intelligence Specialist	
+Intelligence Chief	
+Counterintelligence Chief	
+Imagery Interpretation Chief	
+Translator Chief	
+Basic Infantryman	
+Basic Infantry Officer	
+Infantry Officer	
+Light-Armored Vehicle (LAV) Officer	
+Infantry Weapons Officer	
+Rifleman	
+LAV Assaultman	
+LAV Crewman	
+Reconnaissance Man	
+Machinegunner	
+Gunner Heavy Machine-Gun	
+Mortarman	
+Assaultman	
+Antitank Assault Guided Missileman	
+Tank/Assault Guided Missile Man	
+Infantry Unit Leader	
+Basic Logistics Marine	
+Basic Logistics Officer	
+Logistics Officer	
+Combat Support Officer	
+Maintenance Management Officer	
+Maintenance Management Specialist	
+Embarkation Officer	
+Logistics/Embarkation Specialist	
+Logistics Operations Clerk	
+Air Delivery Officer	
+Air Delivery Specialist	
+Landing Support Specialist	
+Combat Service Support Chief	
+Basic Field Artillery Man	
+Basic Field Artillery Officer	
+Field Artillery Officer	
+Survey and Meteorological Officer	
+Field Artillery Cannoneer	
+Field Artillery Nuclear Projectileman	
+Naval Gunfire Planner	
+Field Artillery Radar Operator	
+Searchlight Man	
+Field Artillery Fire Control Man	
+Naval Gunfire Spotter	
+Artillery Scout Observer	
+Artillery Meteorological Man	
+Field Artillery Operations Man	
+Shore Fire Control Party Man	
+Fire Support Man	
+Field Artillery Chief	
+Field Artillery Operations Chief	
+Observer Liaison Chief	
+Basic Utilities Marine	
+Basic Utilities Officer	
+Utilities Officer	
+Plumbing and Water Supply Specialist	
+Well Driller	
+Electrician	
+Electrician Equipment Repair Specialist	
+Refrigeration Mechanic	
+Utilities Chief	
+Hygiene Equipment Operator	
+Well Driller	
+Hygiene Equipment Repair Specialist	
+Hygiene Equipment Chief	
+Fabric Repair Specialist	
+Office Machine Repair Specialist	
+Repair Chief	
+Basic Engineer, Construction, and Equipment Marine	
+Basic Engineer, Construction, and Equipment Officer	
+Engineer Officer	
+Shore Party Officer	
+Engineer Equipment Officer	
+Metal Worker	
+Utilities Officer	
+Facilities Management Officer	
+Engineer Equipment Mechanic	
+Ground Control Approach Equipment Mechanic	
+Engineer Equipment Operator	
+Rock Quarry Operator	
+Engineer Equipment Chief	
+Construction Officer	
+Engineer Assistant	
+Combat Engineer	
+Atomic Demolition Employment Technician	
+Engineer Operations Chief	
+Shore Party Specialist	
+Bulk Fuel Officer	
+Bulk Fuel Specialist	
+Basic Drafting, Surveying and Mapping Marine	
+Basic Mapping Officer	
+Mapping Officer	
+Construction Drafter	
+Surveyor	
+Surveying and Drafting Chief	
+Map Compiler	
+Cartographer	
+Construction Surveyor	
+Geodetic Surveyor	
+Survey and Drafting Chief	
+Mapping Chief	
+Basic Printing and Reproduction Marine	
+Basic Printing and Reproduction Officer	
+Reproduction Officer	
+Reproduction Equipment Specialist	
+Offset Press Operator	
+Plate Layout Processor	
+Process Camera Operator	
+Reproduction Chief	
+Reproduction Equipment Repairer	
+Basic Tank and Assault Amphibious Vehicle Crewman	
+Basic Tank and Amphibian Vehicle Officer	
+Tank Officer	
+Assault Amphibious Vehicle Officer	
+M60A1 Tank Crewman	
+M1A1 Tank Crewman	
+Armored Amphibian Crewman	
+Assault Amphibious Vehicle (AAV) Crewman	
+Basic Ordnance Marine	
+Ordnance Officer	
+Tracked Vehicle Maintenance Officer	
+Weapons Repair Officer	
+Instrument Repair Officer	
+Ammunition Officer	
+Explosive Ordnance Disposal Officer	
+Weapons Systems Engineer	
+Basic Ordnance Marine	
+Basic Ordnance Officer	
+Ordnance Officer	
+Ordnance Vehicle Maintenance Officer	
+Small Arms Repairer/Technician	
+Rifle Team Equipment Repairer	
+Weapons Repair Officer	
+Electro-Optic Instrument Repair Officer	
+Towed Artillery Systems Technician	
+Assault Amphibious Vehicle (AAV) Repairer/Technician	
+Tracked Vehicle Repairer, Assault Amphibious Vehicle	
+Self-Propelled Artillery (SPARTY) Repairer/Technician	
+Tracked Vehicle Repairer, Self-Propelled	
+Combat Tank Repairer/Technician	
+Main Battle Tank (MBT) Repairer/Technician	
+Light Armored Vehicle (LAV) Repairer/Technician	
+Ordnance Vehicle Maintenance Chief	
+Tank Turret Repairman	
+Machinist	
+Weapons Systems Engineer	
+Electro-Optical Ordnance Repairer	
+Electro-Optical Equipment Technician	
+Electro-Optical Ordnance Technician	
+Senior Ground Ordnance Weapons Chief	
+Ordnance Electronics Equipment Chief	
+Ordnance Chief	
+Weapons Chief	
+Tracked Vehicle Chief	
+Basic Ammunition and Explosive Ordnance Disposal Marine	
+Basic Ammunition and Explosive Ordnance Disposal Officer	
+Explosive Ordnance Disposal Officer	
+Ammunition Technician	
+Explosive Ordnance Disposal Technician (Conventional Weapons)	
+Explosive Ordnance Disposal Technician	
+Ammunition Officer	
+Ground Nuclear Ordnance Technician	
+Basic Operational Communicator	
+Communication Officer Basic	
+Communication Officer	
+Telecommunications Operations Officer	
+Telecommunication Systems Officer	
+Signals Intelligence Electronic Warfare	
+Wireman	
+Field Wireman	
+Construction Wireman	
+Unit Level Switchboard Installer/Maintainer	
+ULS Central Office Operator/Maintainer	
+Wire Chief	
+Field Radio Operator	
+Equipment Operator	
+Radio Telegraph Operator	
+High Frequency Communication Central Operator	
+Fleet SATCOM Terminal Operator	
+Ground Mobile Forces SATCOM Operator	
+Radio Chief	
+Fleet SATCOM Radio Chief	
+Ground Mobile Forces SATCOM Radio Chief	
+Communication Center Operator	
+Communication Center Chief	
+Special Radio Operator	
+Cryptanalyst	
+Traffic Analyst	
+Special Communication Operator	
+Radio Frequency Management Technician	
+PLRS Master Station Operator	
+Operational Communication Chief	
+Basic Signals Intelligence/Ground Electronic Warfare Operator	
+Basic Signals Intelligence/Electronic Warfare Officer	
+Manual Morse Intercept Operator	
+Radio Direction Finder Operator	
+Signals Intelligence Analyst	
+Non-Morse Electronic Intelligence (ELINT) Intercept Operator/Analyst	
+Non-Communications Intercept Operator/An	
+Non-Morse Communications/Electronic Intelligence	
+Voice Intercept Operator	
+Cryptologic Translator/Transcriber	
+Cryptologic Translator	
+Cryptanalyst	
+Special Intelligence Communicator	
+Special Intelligence Communication Supervisor	
+Cryptologic Support Specialist	
+Cryptologic Translator	
+Cryptologic Linguist, Arabic	
+Cryptologic Linguist, Chinese	
+Cryptologic Linguist, Korean	
+Cryptologic Linguist, Spanish	
+Cryptologic Linguist, Russian	
+Signals Intelligence/Electronic Warfare Chief	
+Basic Data/Communications Maintenance Marine	
+Basic Data/Communications Maintenance Officer	
+Electronics Maintenance Officer (Ground)	
+Communications Engineer	
+Telephone Systems Officer	
+Telephone Technician	
+Cable Systems Technician	
+Central Office Installer Repairer	
+KW-7 Cryptographic Technician	
+Teletype and Tactical Office Machine Technician	
+KG/13 Teletype Technician	
+Calibration Officer	
+Computer Technician	
+Electronic Switching Equipment Technician	
+Technical Controller	
+Microcomputer Repairer	
+Fixed Ciphony Technician	
+Digital Subscriber Terminal Equipment Technician	
+Mobile Data Terminal Technician	
+KW-26 Terminal Technician	
+Mobile Communication Central Technician	
+Ground Radar Maintenance Officer	
+Microwave Equipment Technician	
+Microwave Equipment Technician	
+Fleet Satellite Terminal Technician	
+Ground Mobile Forces SATCOM Technician	
+Ground Radio Repairer	
+PLRS Maintenance Technician	
+PLRS Support Maintenance Technician	
+Ground Organizational Radio Repairer	
+Aviation Radio Repairman	
+Aviation Meteorological Equipment Repair	
+Marine Air-Ground Intelligence Systems (MAGIS) Technician	
+Radio Technician	
+Satellite Terminal Technician	
+Aviation Radio Technician	
+AN/TSC-95 Radio Technician	
+Test Measurement and Diagnostic Equipment Technician	
+Electronic Calibration Technician	
+Mechanical Calibration Technician	
+Metrology Technician	
+Small Missile System Technician	
+Radiac Instrument Technician	
+Communication Security Equipment Technician	
+KG-30 COMSEC Technician	
+Ground Radar Repairer	
+Artillery Electronic System Repairer	
+Artillery Electronics Repairer	
+Counter Mortar Radar Repairer	
+Counter Mortar Radar Repairman	
+Ground Radar Technician	
+Data/Communications Maintenance Chief	
+Calibration Chief	
+Basic Supply Administration and Operations Marine	
+Basic Supply Administration and Operations Officer	
+Ground Supply Officer	
+Engineer Supply Officer	
+Contracting Officer	
+Supply Administrative Man - Manual Accounting	
+Supply Administrative Man - Mechanized Accounting	
+Supply Administration and Operations Clerk	
+Purchasing and Contracting Specialist	
+Warehousing Officer	
+Warehouse Clerk	
+Packaging Specialist	
+Aviation Supply Officer	
+Subsistence Supply Clerk	
+Aviation Supply Operations Officer	
+Supply Man, Manual Account	
+Aviation Supply Clerk	
+Automated Information Systems (AIS) Computer Operator	
+Purchasing and Contracting Specialist	
+Contracting Officer	
+Supply Administration and Operations Chief	
+Warehouse Supply Chief	
+Aviation Supply Chief	
+Basic Traffic Management Marine	
+Basic Transportation Officer	
+Traffic Management Officer	
+Freight Operations Clerk	
+Traffic Management Specialist	
+Freight Transportation Clerk	
+Air Freight Transportation Clerk	
+Passenger Transportation Clerk	
+Transportation Chief	
+Basic Supply Services Man	
+Repair Services Officer	
+Fabric Repair Specialist	
+Fabric Repair Chief	
+Office Machine Repair Specialist	
+Office Machine Repair Chief	
+Repair Chief	
+Laundry Machine Operator	
+Basic Food Service Marine	
+Basic Food Service Officer	
+Food Service Officer	
+Food Service Operations Officer (Bakery)	
+Baker	
+Subsistence Supply Clerk	
+Cook	
+Enlisted Aide	
+Veterinary Technician	
+Food Service Specialist	
+Basic Auditing, Finance, and Accounting Marine	
+Basic Auditing, Finance, and Accounting Officer	
+Disbursing Officer	
+Financial Management Officer	
+Financial Accounting Officer	
+NAF Auditing Officer	
+Financial Management Officer	
+Personal Financial Records Clerk	
+Travel Clerk	
+Disburser/Disbursing Chief	
+Auditing Technician	
+Accounting Technician	
+Accounting Analyst/Finance Chief	
+Basic Motor Transport Marine	
+Basic Motor Transport Officer	
+Motor Transport Maintenance Officer	
+Body Repair Mechanic	
+Automotive Mechanic	
+Motor Transport Chief	
+Organizational Automotive Mechanic	
+Intermediate Automotive Mechanic	
+Vehicle Recovery Mechanic	
+Fuel and Electrical Systems Mechanic	
+Crash/Fire/Rescue Vehicle Mechanic	
+Motor Transport Maintenance Chief	
+Motor Vehicle Operator	
+Amphibious Cargo Carrier Operator	
+Logistics Vehicle System Operator	
+Semitrailer Refueler Operator	
+Light Vehicle Operator	
+Motor Transport Operations Chief	
+Licensing Examiner	
+Basic Data Systems Marine	
+Basic Data Systems Officer	
+Data Systems Officer	
+Systems Analysis Officer	
+Systems Development Officer	
+Data Systems Operations Officer	
+Data Systems Software Officer	
+Card Punch Operator	
+Electric Accounting Machine Operator	
+Officer-line Equipment Operator	
+Data Processing Equipment Operator	
+Data Systems Librarian	
+Computer Operator	
+Network Control Specialist	
+Computer Operator IBM S/360	
+Computer Operator	
+Multi-Systems Controller	
+Data Control Specialist	
+Teleprocessing Specialist	
+Operator/Programmer, UNIVAC 1500	
+Programmer, Computer NCR	
+Programmer, Computer RCA 3301	
+Programmer, Symbolic 1401	
+Programmer, Autocoder 1401	
+Programmer (COBOL)	
+Programmer, ALC	
+Programmer (Small Computer System Specialist)	
+Programmer, ADA	
+Systems Programmer	
+Data Base Management System (DBMS) Specialist	
+Computer Security Specialist	
+Data Systems Operation Chief	
+Data Systems Programming Chief	
+Systems Software Chief	
+Data Processing Chief	
+Basic Marine Corps Exchange Marine	
+Basic Marine Corps Exchange Officer	
+Bookkeeper, Nonappropriated Funds	
+Marine Corps Exchange Officer	
+Exchange Marine	
+Club Manager/Treasurer	
+Morale, Welfare, Recreation (MWR) Specialist	
+Exchange Chief	
+Basic Public Affairs Marine	
+Basic Public Affairs Officer	
+Public Affairs Officer	
+Print Journalist	
+Broadcast Journalist	
+Print Journalist	
+Photojournalist	
+Historical Officer	
+Public Affairs Chief	
+Basic Legal Services Marine	
+Student Judge Advocate	
+Judge Advocate	
+Law Officer I	
+Legal Services Officer	
+Legal Services Specialist	
+Legal Services Reporter SPCM (Closed Mic)	
+Legal Services Reporter GCM (Closed Micr)	
+Legal Services Reporter-GCM (Stenotype)	
+Legal Services Notereader/Transcriber-Stenotype	
+Legal Services Reporter (Stenotype)	
+Legal Services Chief	
+Basic Training and Visual Information Support Marine	
+Basic Training and Audiovisual Support Officer	
+Training and Visual Information Support Officer	
+Graphics Specialist	
+Training Equipment and Library Specialist	
+Photographer	
+Photographic Equipment Repairman	
+Photographic Quality Control Specialist	
+Photojournalist	
+Combat Photographic Specialist	
+Combat Photographic Technician	
+Television Production Specialist	
+Audiovisual Equipment Operator	
+Combat Visual Information Equipment Technician	
+Combat Motion Media Photographer	
+Motion Media Editor/Scriptwriter	
+Audio/Television Production Specialist	
+Photographic Laboratory Technician	
+Motion Picture Film Editor	
+Training and Visual Information Support Chief	
+Basic Training Support Man	
+Training Aids Officer	
+Illustrator	
+Range Officer	
+Audiovisual Librarian	
+Audiovisual Equipment Operator	
+Audiovisual Equipment Technician	
+Training Support Chief	
+Basic Musician	
+Basic Band Officer	
+Band Officer	
+Drum and Bugle Corps Officer	
+Enlisted Band Leader	
+Band Drum Major	
+Instrument Repair Specialist	
+Musician, Oboe/English Horn	
+Musician, Bassoon	
+Musician, Clarinet	
+Musician, Flute and Piccolo	
+Musician, Saxophone	
+Musician, Cornet/Trumpet	
+Musician, Baritone Horn/Euphonium	
+Musician, French Horn	
+Musician, Trombone	
+Musician, Tuba and String Bass/Electric Bass	
+Bandsman, Timpani/Xylophone, and Marimba	
+Musician, Percussion (Drums, Timpani, and Mallets)	
+Musician, Piano or Guitar	
+Arranger, Band	
+Drum and Bugle Corps Drum Major	
+Musician, Soprano or Mellophone Bugle	
+Musician, French Horn Bugle	
+Musician, Bass Baritone Bugle	
+Musician, Contrabass Bugle	
+Drum and Bugle Corps Arranger	
+Musician, Percussion (Drum and Bugle Corps)	
+Basic Nuclear, Biological, and Chemical Marine	
+Basic Nuclear, Biological, and Chemical Officer	
+Nuclear, Biological, and Chemical (NBC) Officer	
+Marine Wing Weapons Unit Officer	
+Nuclear Biological and Chemical Defense Specialist	
+Chemical Technical Escort	
+Nuclear and Chemical Weapons Employment Officer	
+Ground Nuclear Weapons Assembly Officer	
+Marine Wing Weapons Unit Specialist	
+Basic Military Police and Corrections Marine	
+Basic Military Police and Corrections Officer	
+Military Police Officer	
+Corrections Officer	
+Military Police	
+Military Police Dog Handler	
+Accident Investigator	
+Crime Prevention/Physical Security Specialist	
+Criminal Investigator	
+Polygraph Examiner	
+Correctional Specialist	
+Correctional Counselor	
+Basic Electronics Maintenance Marine	
+Basic Electronics Maintenance Officer	
+Electronics Maintenance Officer (Aviation)	
+Electronics Engineer	
+Electronics Officer	
+Ground Launched Missile System Maintenance Officer	
+Aviation Radar Maintenance Officer	
+Microminiature Circuit Repair Specialist	
+Calibration Officer	
+Hawk Fire Control Repairer	
+Hawk Information Coordination Central Repairer	
+Hawk Firing Section Repairer	
+Hawk Pulse Radar Technician	
+Hawk Continuous Wave Radar Technician	
+Improved Hawk Automatic Fire Distribution and Engagement Simulator Technician	
+Hawk Fire Control Technician	
+Hawk Missile System Maintenance Technician	
+Hawk Mechanical System Repairer	
+Ground Radar Repairman	
+FADAC Radar Repairman	
+Artillery Electronics Repairman	
+Weapons Location Equipment Repairman	
+Counter Mortar Radar Repairman	
+Ground Radar Technician	
+Aviation Radio Repairer	
+Aviation Meteorological Equipment Technician	
+Aviation Radio Technician	
+Aviation Radar Repairman	
+Aviation Radar Repairer (AN/TPS-59)	
+Aviation Fire Control Repairer	
+Aviation Radar Repairer (AN/TPS-63)	
+Aviation Radar Repairer (AN/TPS-32)	
+Aviation Fire Control Technician	
+Aviation Radar Technician	
+Air Traffic Control Systems Maintenance Officer	
+Air Traffic Control Maintenance Trainee	
+Air Traffic Control Navigational Aids Technician	
+Air Traffic Control Radar Technician	
+Air Traffic Control Communications Technician	
+Air Traffic Control Navigational Aids Repairer	
+Marine Air Traffic Control Unit Radar Repairer	
+Air Traffic Control Radar Repairer	
+Air Traffic Control Communications Repairer	
+Air Traffic Control Systems Maintenance Chief	
+Tactical Air Command Central Repairer	
+Tactical Air Operations Central Repairer	
+Tactical Data Communications Central Repairer	
+Data Systems Maintenance Officer	
+Tactical Air Command Central Technician	
+Tactical General Purpose Computer Technician	
+Tactical Data Communications Central Technician	
+Tactical Air Operations Central Technician	
+Digital Data Systems Technician	
+Computer Systems Technician Honeywell DPS6 (AN/UYK-65V) System	
+Electronics Maintenance Chief	
+Electronics Maintenance Chief	
+Tactical Data Systems Maintenance Chief	
+Missile System Maintenance Chief	
+Digital Data System Maintenance Chief	
+Basic Aircraft Maintenance Marine	
+Basic Aircraft Maintenance Officer	
+Aircraft Maintenance Officer	
+Aircraft Maintenance Engineer Officer	
+Aeronautical Engineer	
+Flight Equipment Officer	
+Aircraft Maintenance Ground Support Equipment	
+Aircraft Mechanic-Trainee	
+Aircraft Mechanic A-4/TA-4/OA-4	
+Aircraft Mechanic, A-6, EA-6	
+Aircraft Mechanic, F-4/RF4	
+Aircraft Mechanic, AV-8/TAV-8	
+Aircraft Mechanic, KC-130	
+Aircraft Mechanic, F/A-18	
+Aircraft Mechanic, OV-10	
+Aircraft Maintenance Chief	
+Aircraft Mechanic, F-14A	
+Aircraft Power Plants Mechanic, Chief	
+Aircraft Power Plants Mechanic, J-52	
+Aircraft Power Plants Mechanic, T-76	
+Aircraft Power Plants Mechanic, J-79	
+Aircraft Power Plants Mechanic, Rolls Royce Pegasus	
+Aircraft Power Plants Mechanic, T-56	
+Aircraft Power Plants Mechanic, F-404	
+Aircraft Mechanic Reciprocating	
+Airframe Chief Fixed Wing	
+Aircraft Flight Engineer, KC-130 - Trainee	
+Aircraft Flight Engineer, KC-130	
+Spectrometric Oil Analysis Technician	
+Aircraft Power Plants Test Cell Operator Fixed-Wing	
+Aircraft Propeller Mechanic	
+AV-8A/C Maintenance Specialist	
+AV-8B Maintenance Specialist	
+Aircraft Structures Mechanic-Trainee	
+Aircraft Structures Mechanic	
+Aircraft Welder	
+Aircraft Nondestructive Inspection Technician	
+Aircraft Maintenance Administration Clerk	
+Aircraft Maintenance Data Analysis Technician	
+Aircraft Maintenance Computer Systems Analyst/Operator	
+Aircraft Hydraulic/Pneumatic Mechanic-Trainee	
+Aircraft Hydraulic/Pneumatic Mechanic A-4/TA-4	
+Aircraft Hydraulic/Pneumatic Mechanic A-6/EA-6	
+Aircraft Hydraulic/Pneumatic Mechanic F-4	
+Aircraft Hydraulic/Pneumatic Mechanic AV-8/TAV-8	
+Aircraft Hydraulic/Pneumatic Mechanic KC-130	
+Aircraft Hydraulic/Pneumatic Mechanic F/A-18	
+Aircraft Hydraulic/Pneumatic Mechanic OV-10	
+A/C Airframes Maintenance Chief	
+Flight Equipment Marine	
+Aircraft Safety Equipment Mechanic-Trainee	
+Aircraft Safety Equipment Mechanic	
+Flight Equipment Marine	
+Aircraft Safety Equipment Chief	
+Cryogenics Equipment Operator	
+Aircraft Maintenance Ground Support Equipment Mechanic - Trainee	
+Aircraft Maintenance Ground Support Equipment Hydraulic/Pneumatic/Structures Mechanic	
+Aircraft Maintenance Ground Support Equipment Electrician/ Refrigeration Mechanic	
+Cryogenics Equipment Operator	
+Aircraft Maintenance GSE Hydraulic/Pneumatic/Structural Mechanic	
+Aircraft Maintenance Ground Support Equipment	
+Aircraft Maintenance GSE Refrigeration Mechanic	
+Aircraft Maintenance Ground Support Equipment Chief	
+Aircraft Safety Equipment Mechanic - Trainee	
+Aircraft Safety Equipment Mechanic, A-4/TA-4	
+Aircraft Safety Equipment Mechanic A-6/EA-6	
+Aircraft Safety Equipment Mechanic F-4	
+Aircraft Safety Equipment Mechanic, AV-8/TAV-8	
+Aircraft Safety Equipment Mechanic, KC-130	
+Aircraft Safety Equipment Mechanic, F/A-18	
+Aircraft Safety Equipment Mechanic OV-10	
+Aircraft Safety Equipment Mechanic, A-6/EA-6	
+Aircraft Safety Equipment Chief	
+Aircraft Structures Mechanic-Trainee	
+Aircraft Structures Mechanic A-4/TA-4	
+Aircraft Structures Mechanic A-6/EA-6	
+Aircraft Structures Mechanic F-4	
+Aircraft Structures Mechanic AV-8/TAV-8	
+Aircraft Structures Mechanic KC-130	
+Aircraft Structures Mechanic F/A-18	
+Aircraft Structures Mechanic OV-10	
+Helicopter Mechanic - Trainee	
+Helicopter Mechanic, CH-46	
+Helicopter Mechanic CH-53 A/D/E	
+Helicopter Mechanic, U/AH-1	
+Helicopter Mechanic, MV-22	
+Helicopter Maintenance Chief	
+Helicopter Power Plants Mechanic - Trainee	
+Helicopter Power Plants Mechanic, T-58	
+Helicopter Power Plants Mechanic, T-64	
+Helicopter Power Plants Mechanic, T-400/T-700	
+Helicopter Power Plants Mechanic, MV-22	
+Airframe Chief Rotary Wing	
+Helicopter Dynamic Components Mechanic - Trainee	
+Helicopter Dynamic Components Mechanic	
+Aircraft Power Plants Test Cell Operator Rotary Wing	
+Helicopter Structures Mechanic CH-46	
+Helicopter Structures Mechanic CH-53	
+Helicopter Structures Mechanic U/AH-1	
+Helicopter Structures Mechanic MV-22	
+Helicopter Hydraulic/Pneumatic Mechanic CH-46	
+Helicopter Hydraulic/Pneumatic Mechanic CH-53	
+Helicopter Hydraulic/Pneumatic Mechanic U/AH-1	
+Helicopter Hydraulic/Pneumatic Mechanic MV-22	
+Helicopter Airframes Maintenance Chief	
+Presidential Support Specialist	
+Helicopter Crew Chief	
+Helicopter Crew Chief, CH-46	
+Helicopter Crew Chiefs CH-53	
+Helicopter Crew Chief UH-1	
+Helicopter Crew Chief, MV-22	
+Helicopter Crew Chief, V-22	
+Avionics Officer	
+Aircraft Radar Attack Systems Technician, A6	
+Aircraft Missile Control Systems Technician, F4B	
+Aircraft Electrical Systems Technician, Transport and Helicopter	
+Aircraft Electrical Systems Technician, TA4/A4/F8/F4/RF4	
+Aviation Training Devices Technician/Instructor, General	
+Aircraft Training Devices Technician/Instructor, A/EA-6	
+Basic Avionics Marine	
+Basic Avionics Officer	
+Avionics Officer	
+Aircraft Communications/Navigation/Electrical/Weapon Systems  Technician - Trainee OMA	
+Aircraft Communications/Navigation/Electrical/Weapon/DECM Systems Technician A-4/TA-4/OA-4	
+Aircraft Communications/Navigation/Electrical/Weapon/DECM Systems Technician A-6/EA-6	
+Aircraft Communications/Navigation/Electrical/Weapon/DECM Systems Technician RF-4/f4	
+Aircraft Communications/Navigation/Electrical/Weapon/DECM Systems Technician AV-8	
+Aircraft Communications/Navigation/Electrical/Weapon/DECM Systems Technician KC-130	
+Aircraft Communications/Navigation/Electrical/Weapon/DECM Systems Technician F/A-18	
+Aircraft Communications/Navigation/Electrical/Weapon/DECM Systems Technician OV-10	
+Aircraft Communications/Navigation/Electrical/Weapon/DECM Systems Technician CH-46	
+Aircraft Communications/Navigation/Electrical/Weapon/DECM Systems Technician CH-53	
+Aircraft Communications/Navigation/Electrical/Weapon/DECM Systems Technician U/AH-1	
+Aircraft Communications/Navigation/Electrical/Weapon/DECM Systems Technician V-22	
+Aircraft Electrical Systems Technician - Trainee	
+Aircraft Electronic Systems Technician A-4/TA-4/OA-4	
+Aircraft Electrical Systems Technician A-6/EA-6/TC-4C	
+Aircraft Electronic Systems Technician RF-4/F-4	
+Aircraft Electrical Systems Technician, AV-8	
+Aircraft Electrical Systems Technician, KC-130	
+Aircraft Electrical Systems Technician, F/A-18	
+Aircraft Electronic Systems Technician CH-46	
+Aircraft Electronic Systems Technician CH-53	
+Aircraft Electronic Systems Technician U/AH1	
+Aircraft Electronic Systems Technician CH-53E	
+Advanced Avionics Technician-Trainee	
+Aircraft Weapons Systems Specialist A-4/TA-4/OA-4	
+Aircraft Weapons Systems Specialist A-6/TC-4C	
+Aircraft Weapons Systems Specialist F-4S	
+Aircraft Weapons Systems Specialist AV-8	
+Aircraft Weapons Systems Specialist F/A-18	
+Aircraft Weapons Systems Specialist EA-6A	
+Aircraft Weapons Systems Specialist, F-4	
+Aircraft Radar Reconnaissance/Camera Systems Technician RF-4B	
+Aircraft Weapons Systems Specialist, Helicopter	
+Aircraft Communication/Navigation/Radar Systems Technician, EA-6	
+Aircraft Integrated Weapon Systems Technician	
+Aerial Camera Systems Technician, Trainee	
+Aerial Camera Systems Technician	
+Imagery Interpretation Equipment Repairer	
+Aircraft Electronic Counter-Measures Systems Technician, EA-6	
+Aircraft Active Electronic Countermeasures Systems Technician,	
+Aircraft Electronic Countermeasures Systems Technician, EA-6B	
+Avionics Maintenance Chief	
+Basic Aircraft Maintenance Man	
+Basic Avionics Officer	
+Aircraft Maintenance Officer	
+Aircraft Communications/Navigation Systems Technician-Trainee IMA	
+Aircraft Communications Systems Technician, IMA	
+Aircraft Communication System Tech, Helicopter/KC-130/OV-10	
+Advanced Aircraft Communications/Navigation Systems Technician IMA	
+Aircraft Navigation Systems Technician, Radar, IMA	
+Aircraft Navigation Systems Technician,	
+Aircraft Cryptographic Systems Technician IMA	
+Aviation Electronic Micro-Miniature/Instrument and Cable Repair Technician	
+Aircraft Electrical Systems Technician - Trainee	
+Aircraft Electrical/Instrument/Flight Control Systems Technician, Fixed Wing, IMA	
+Aircraft Electronic/Instruments System Tech, Helo/KC-130/OV-10	
+Advanced Aircraft Electrical/Instrument/Flight Control Systems Technician IMA	
+Aircraft Flight Control/ADC System Tech, Hel/KC-130/OV-10	
+A/C Analog Display System SACE Technician	
+Aircraft Ballistics Computer Technician, A-6E, IMA	
+Aircraft Radar Systems Technician, A-6E/	
+Aircraft Inertial Navigation System SACE Technician, A-6, IMA	
+Semi-Automatic Checkout Equipment (SACE)	
+Aircraft ALQ-99 Jammer Systems Tech, IMA	
+Aircraft ALQ-99 Track and Surveillance Systems Technician	
+Aircraft ALQ-99 Display/AYA-6 Systems Technician	
+ECM Module Repair Technician, IMA	
+Avionics Test Set (ATS) Technician, IMA	
+Radar Test Station (RTS)/Radar Systems Test Station (RSTS) Technician, IMA	
+Carrier Aircraft Inertial Navigation Systems (CAINS) Technician, IMA	
+Hybrid Test Set Technician, IMA	
+Aircraft Forward Looking Infrared/Electro-Optical Technician, IMA	
+Aircraft RADCOM/Cat IIID Technician IMA	
+Aircraft Electrical Equipment Test Set (EETS)/Mobile Electronic Test Set (METS) Technician, IMA	
+Advanced Automatic Test Equipment Technician IMA	
+Aircraft Weapons Systems Technician, A-4/AV-8, IMA	
+Aircraft Weapons Systems Technician, AERO-1A, IMA	
+Aircraft Weapons Systems Technician, AWG-10, IMA	
+Aircraft Radar/IR Reconnaissance Systems Technician IMA	
+Aerial Camera/ADAS Systems Technician IMA	
+Aircraft Forward Looking Infrared/Tow Technician	
+Advanced Aircraft Weapons System Technician IMA	
+Aircraft Electronic Countermeasures Systems Technician Fixed Wing IMA	
+Aircraft Electronic Countermeasures Systems Technician, Helicopter, IMA	
+Aircraft Electronic Countermeasures Systems Technician, EA-6, IMA	
+Advanced Aircraft Electronic Countermeasures Technician IMA	
+Aviation Precision Measurement Equipment (PME) Chief	
+Aviation Precision Measurement Equipment/Automatic Test  Equipment Calibration and Repair Technician IMA	
+Aviation Meteorological Equipment Technician OMA/IMA	
+Computer Systems Technician Honeywell DPS-6 AN/UYK-65 V System IMA	
+Basic Aviation Ordnance Marine	
+Basic Aviation Ordnance Officer	
+Aviation Ordnance Officer	
+Marine Wing Weapons Unit Officer	
+Aviation Ordnance Trainee	
+Aviation Ordnance Ammunition Technician	
+Aircraft Ordnance Technician	
+Aircraft Ordnance Technician, A-4/TA-4/OA-4	
+Aviation Ordnance Chief	
+Aircraft Ordnance Technician, F-4/RF-4	
+Aircraft Ordnance Technician, AV-8	
+Aircraft Ordnance Technician, Rotary Wing/OV-10	
+Aircraft Ordnance Technician, F/A-18	
+Aircraft Ordnance Technician, OV-10	
+Aviation Ordnance Equipment Repair Technician	
+Aviation Ordnance Equipment Repair Technician	
+Marine Wing Weapons Unit Specialist	
+Aviation Ordnance Chief	
+Basic Aviation Supply Marine	
+Aviation Supply Officer	
+Aviation Supply Operations Officer	
+A/C Communications/Navigation Systems Technician	
+Aircraft Communication./Navigation Systems Technician	
+Aircraft Communication./Navigation Systems Technician	
+Aircraft Communication./Navigation Systems Technician	
+Aircraft Communications/Navigation System	
+Aircraft Communications/Navigation System	
+Aircraft Communications Systems Technician	
+Aircraft Navigation Systems Technician	
+Aircraft Navigation Systems Technician	
+Aircraft Navigation Systems Technician	
+Aircraft Avionics Repair Technician-Trainee	
+Aircraft Cryptographic Systems Technician	
+A/C Passive Electronic Countermeasures Systems Technician	
+A/C Active Electronic Countermeasures Systems Technician	
+Aircraft Radar Reconnaissance Systems Technician	
+A/C Passive Electronic Countermeasures Systems Technician	
+A/C Active Electronic Countermeasures Systems Technician	
+A/C Deceptive Electronic Countermeasures Systems Technician	
+Aircraft Radar/IR Reconnaissance Systems Technician	
+Aircraft Electrical Systems Technician-Trainee	
+Aircraft Electrical Systems Technician	
+Aircraft Electrical Systems Technician	
+Aircraft Electrical Systems Technician	
+Aircraft Electrical Systems Technician	
+Aircraft Electrical Systems Technician	
+Aircraft Electrical Systems Technician	
+Aircraft Electrical/Instrument Systems Technician	
+A/C Flight Control and Air Data Computer System Technician	
+Aviation Electronic Micro-Miniature Repair	
+Aircraft Weapon Systems Specialist, Trainee	
+Aircraft Weapon Systems Specialist, A-6E	
+Aircraft Weapon Systems Specialist, EA-6	
+Aircraft Weapon Systems Specialist, A-4	
+A/C Analog Display System SACE Technician	
+Aircraft Weapon Systems Technician, A-4/TA-4/OA-4	
+Aircraft Ballistics Computer Technician	
+Aircraft Radar Systems Technician, A-6E/A-6	
+Aircraft Forward Looking Infrared/Tow Technician	
+Vast Technician, IMA	
+Vast Repair Technician, IMA	
+Aircraft Search/Track Radar SACE Technician	
+Aircraft Ballistics Computer SACE Technician	
+Aircraft Inertial Navigation Systems SACE Technician	
+Semi-Automatic Checkout Equipment (SACE)	
+Aircraft Weapon Systems Specialist, F-4N	
+Aircraft Weapon Systems Specialist, F-4J	
+Aircraft Weapon Systems Technician, Aero	
+Aircraft Weapons Systems Technician, AWG-10,IMA	
+Aircraft Weapon Systems Specialist, Helicopter	
+Aircraft Communications/Navigation/Radar Technician	
+Aircraft Electronic Countermeasures Systems Technician	
+Aircraft ALQ-99 Jammer Systems Technician	
+Aircraft ALQ-99 Track and Surveillance Systems Technician	
+Aircraft ALQ-99 Display/AYA-6 Systems Technician	
+ECM Module Repair Technician, IMA	
+Aviation PME Calibration Technician	
+Aviation PME and ATE Repair Technician	
+Aerial Camera Systems Technician	
+Aerial Camera, ADAS Systems Technician	
+Imagery Interpretation Equipment Repair	
+Aviation Photographic Film Processor	
+Aircraft Weapon Systems Specialist, F-14A	
+Aviation Photographic/Electronic Systems	
+Aviation PME Calibration Technician	
+Aviation Precision Measurement/Auto Test	
+Aviation PME Chief	
+Avionics Maintenance Chief	
+Basic Air-Control/Anti-Air Warfare Man	
+Basic Air Control/Anti-Air Warfare Officer	
+Basic Air Control/Anti-Air Warfare Officer	
+Guided Missile Systems Officer	
+Anti-Air Warfare Officer	
+Air Support Control Officer	
+Air Defense Control Officer	
+Air Defense Control Officer	
+Air Traffic Control Officer, Automated Systems	
+Ground Controlled Approach Controller	
+Radar Approach Controller	
+Airborne Radio Operator	
+Air Control Electronics Operator, Manual System	
+Air Control Electronics Operator, Automated System	
+Air Support Operations Operator	
+Air Command, Control, and Defense Systems Supervisor	
+Aerial Navigator	
+Basic Weather Service Marine	
+Basic Weather Service Officer	
+Weather Service Officer	
+Weather Observer	
+Rawinsonde Operator	
+Weather Observer/Rawinsonde Operator	
+Weather Forecaster	
+Basic Airfield Services Marines	
+Basic Airfield Services Officer	
+Aircraft Fire Protection and Recovery Officer	
+Aircraft Recovery Specialist	
+Aviation Operations Specialist	
+Aircraft Firefighting and Rescue Specialist	
+Basic Air Delivery Man	
+Flight Equipment Officer	
+Air Delivery Officer	
+Air Delivery Man	
+Basic Air Control/Air Support/AntiAir Warfare Marine	
+Basic Air Control/Anti-Air Warfare Officer	
+Forward Area Air Defense Officer	
+Surface-To-Air Weapons Officer	
+Forward Air Controller	
+Air Support Control Officer	
+Air Defense Control Officer	
+Low Altitude Air Defense (LAAD) Gunner	
+Forward Air Controller (Airborne)/Tactical Air Coordinator (Airborne), OA-4M	
+Hawk Missile System Operator	
+Hawk Missile System Operator	
+Air Command and Control Electronics Operator	
+Air Command and Control Electronics Operator	
+Tactical Air Defense Controller	
+Air Command, Control and Defense System	
+Air Support Operations Operator	
+Air Support Operations Operator	
+Weapons and Tactics Instructor-Air Control	
+Basic Air Traffic Controller/Enlisted Flight Crew Marine	
+Basic Air Traffic Control Officer	
+Pilot VMF	
+Pilot VMR	
+Pilot VMR (AW) Single Place	
+Pilot VMR (AW) Multi Place	
+Pilot VMGR	
+Air Traffic Controller-Trainee	
+Air Traffic Controller-Tower	
+Air Traffic Control Officer	
+Air Traffic Controller	
+Air Traffic Controller-Radar	
+Radar Approach Controller	
+Radar Approach Controller	
+Pilot VME (Prop)	
+Pilot VME (Jet)	
+Pilot HMH	
+Airborne Electronic Countermeasures/Reconnaissance Officer	
+Aerial Navigator - Trainee	
+First Navigator	
+Aerial Navigation Officer	
+Airborne Radio Operator/Loadmaster-Trainee	
+Airborne Radio Operator/Loadmaster	
+Air Traffic Control Operations Chief	
+Basic Pilot	
+Pilot VMA , FRS Basic A-4M	
+Pilot VMA A-4 Qualified	
+FRS Basic AV-8B Pilot	
+Pilot AV-8A/C Qualified	
+Pilot AV-8B Qualified	
+Pilot VMA (AW) FRS Basic A-6E	
+Pilot VMA (AW) FRS Basic A-6E	
+Attack Training Officer	
+Attack Training Officer (AW)	
+FRS Basic F-4S Pilot	
+FRS Basic F/A-18 Pilot	
+Pilot VMFA F-4S Qualified	
+Pilot VMFA F/A-18 Qualified	
+FRS Basic F/A-18D Weapons Systems Officer (WSO)	
+Qualified F/A-18D WSO	
+Pilot VMFA F/A-18D Qualified	
+Fighter Training Officer	
+Fighter Training Officer (AW)	
+Basic Pilot VMF/VMF(AW)	
+Pilot VMF/VMF(AW)F-8A/B/C	
+Pilot VMF/VMF(AW)F-8D/E	
+FRS Basic RF-4B Pilot	
+FRS Basic EA-6A/B Pilot	
+Pilot VMAQ/EA-6A Qualified	
+Pilot VMAQ/EA-6B Qualified	
+Pilot VMCJ RF-8A	
+Pilot VMAQ/RF-4B Qualified	
+Pilot WMGR Maritime Advanced (NATC)	
+Pilot C-9 Qualified	
+Pilot TC-4C Qualified	
+Pilot VMGR C-117	
+Pilot VMGR C-118	
+Pilot UC-12B Qualified	
+KC-130 Co-Pilot (T2P/T3P)	
+Pilot KC-130 Aircraft Commander	
+FRS Basic CH-53A/D Pilot	
+Pilot CT-39 Qualified	
+FRS Basic CH-53E Pilot	
+FRS Basic CH-46 Pilot	
+Pilot CH-46 Qualified	
+Pilot UH-1N Qualified	
+Pilot CH-53A/D Qualified	
+Pilot AH-1 Qualified	
+Pilot CH-53E Qualified	
+FRS Basic UH-1N Pilot	
+FRS Basic AH-1 Pilot	
+Attack Helicopter Training Officer	
+FRS Basic Supporting Arms Coordinator (Airborne)	
+Qualified Supporting Arms Coordinator (Airborne)	
+FRS Basic OV-10 Pilot	
+Pilot VMO OV-10	
+Weapons and Tactics Instructor	
+Naval Flight Officer Student	
+FRS Basic RF-4B Airborne Reconnaissance Officer	
+Tactical Navigator Flight Student (NATC)	
+FRS Basic A-6E Bombardier/Navigator	
+FRS Basic EA-6A/B Electronic Warfare Officer	
+Qualified A-6E Bombardier/Navigator	
+Qualified EA-6A Electronic Warfare Officer	
+Qualified RF-4B Airborne Reconnaissance Officer	
+Electronic/Warfare/Airborne Reconnaissance Officer	
+F-4S Radar Intercept Officer	
+Qualified EA-6B Electronics Warfare Officer	
+V/STOL Landing Signal Officer	
+Landing Signal Officer Trainee	
+Naval Flight Officer VMAW	
+Pilot VMAW	
+Landing Signal Officer Phase I and II Qualified LSO (including SATS qualification)	
+Landing Signal Officer Phase III Qualified LSO	
+Test Pilot/Flight Test Project Officer	
+Aviation Safety Officer	
+Basic Rotary Wing Pilot	
+Basic Fixed Wing Pilot	
+Flight Student (TBS)	
+Quality Assurance Technician (Subsistence)	
+Marine Wing Weapons Unit Specialist	
+Ground Nuclear Weapons Technician	
+Guard	
+Marine Corps Security Force (MCSF) Guard	
+Marine Corps Security Force (MCSF) Cadre Trainer	
+Marine Corps Security Force (MCSF) Close Quarters Battle (CQB) Team Member	
+Education Assistant	
+Recruiter	
+Career Planner	
+Psychological Operations Noncommissioned Officer	
+Civil Affairs Noncommissioned Officer	
+Drill Instructor	
+Drill Sergeant	
+Range Coach	
+Small Arms Weapons Instructor	
+Human Relations Instructor	
+Substance Abuse Counselor	
+Scout Sniper	
+Physical Training Instructor	
+Water Safety/Survival Instructor	
+Interpreter (Designated Language)	
+Surveillance Sensor Operator	
+Surveillance Sensor Maintenance Man	
+Reconnaissance Man, Parachute Jump Qualified	
+Reconnaissance Man, SCUBA Qualified	
+Reconnaissance Man, Parachute and SCUBA Qualified	
+Ground Operations Specialist	
+Firefighter	
+Barracks and Grounds Marine	
+Food Service Attendant	
+Athletic and Recreation Assistant	
+Food and Hospitality Manager	
+Military Affiliate Radio System Radio Operator	
+Graves Registration Specialist	
+Education Officer	
+Education Testing and Evaluation Specialist	
+Education Technologist	
+Education Curriculum and Instruction Specialist	
+Education Administrator	
+Physical Education Specialist	
+Aeronautical Engineer (SEP)	
+Chemical Engineer	
+Electronics Engineer	
+Ordnance Systems Engineer	
+Computer Engineer	
+Industrial Engineer	
+Nuclear Engineer	
+Electronic Warfare Systems Officer	
+Communications Engineer	
+Nuclear Physics Officer	
+Management Officer	
+Personnel Management Officer	
+Financial Management Specialist	
+Data Systems Specialist	
+Management, Data Systems Officer	
+Operations Analyst	
+Defense Systems Analyst	
+Research and Development Officer	
+System Acquisition Management (SAM)/Contracting Officer	
+Command, Control, and Communications (C3) Systems Officer	
+Communication Manager	
+Material Management Officer	
+Space Operations Officer	
+Statistics Officer	
+Public Affairs Management Officer	
+International Relations Officer	
+Historian	
+Human Resources Management Specialist	
+Doctor of Juridical Science	
+Master of Law	
+Marine Officer Instructor	
+Joint Specialty Officer Nominee	
+Joint Specialty Officer (JSO)	
+Director, US Marine Band	
+Staff Officer, US Marine Band	
+US Marine Drum and Bugle Corps Officer	
+Mission Commander	
+Ground Control Station (GSC) Internal Pilot	
+Member United States Marine Band	
+Billet Designator - Naval Aviator/Naval Flight Officer	
+U.S. Marine Drum and Bugle Corps Member	
+Ground Control Station Payload Operator	
+External Unmanned Aerial Vehicle (UAV) Operator	
+Electronic/Electrical Maintenance Technician	
+Mechanical Maintenance Technician	
+Remote Receiving Station (RRS) Operator	
+General Service Marine	
+Basic Officer	
+General Officer	
+Colonel, Logistician	
+Special Assignment Officer	
+Colonel, Ground	
+Colonel, Naval Aviator/Naval Flight Officer	
+Colonel, Supply	
+Marine Air Ground Task Force (MAGTF) Plans/Operations Officer	
+Billet Designator - Unrestricted Officer	
+Billet Designator - Unrestricted Ground Officer	
+Billet Designator-Naval Aviator/Naval Fl	
+Special Services Officer	
+Colonel, Judge Advocate	
+Special Assignment - Enlisted	
+Billet Designator - Enlisted	
+College Degree-Enlisted	
+Marine Air Ground Task Force Plans/Operations Special	
+Women's Unit Officer	
+Range Officer	
+Billet Designator - Air Control/AntiAir Warfare Officer	
+Special Technical Operations	
+Special Technical Operations (Officer)	
+Foreign Area Officer	
+Foreign Area Officer, Latin America	
+Foreign Area Officer, USSR	
+Foreign Area Officer, People's Republic of China	
+Foreign Area Officer, Middle East/North Africa	
+Foreign Area Officer, Sub-Saharan Africa	
+Foreign Area Officer, Sub-Saharan Africa	
+Foreign Area Officer, Western Europe	
+Foreign Area Officer, Southwest Asia	
+Foreign Area Officer, Eastern Europe	
+Combat Artist (Officer)	
+SCUBA Marine	
+SCUBA Marine (Officer)	
+Parachutist/SCUBA Marine	
+Parachutist/SCUBA Marine (Officer)	
+Psychological Officer	
+Ground Safety Specialist	
+Ground Safety Specialist (Officer)	
+Psychological Operations Officer	
+Materiel Professional (MP) Specialist	
+Acquisition Professional (AP) Manager	
+Naval Aviation Observer	
+Parachutist	
+Parachutist (Officer)	
+Billet Designator - Fixed-Wing Pilot	
+Billet Designator - Naval Flight Officer	
+Billet Designator - Helicopter Pilot	
+Billet Designator - Any Pilot/Naval Flight Officer	
+Basic Marine, Aviation Enlistment Option	
+Basic Marine with Enlistment Guarantee	
+Information Computer Security Specialist	
+Information Computer Security Specialist (Officer)	
+Basic Marine, Prior Service Enlistment I	
+Basic Marine, Prior Service Enlistment I	
+Basic Marine, Ground Enlistment Options	
+Surveillance Sensor Officer	
+Tactical Data Systems Specialist	
+Tactical Data Systems Specialist (Officer)	
+Small Computer Systems Operator/Programmer	
+Sergeant Major of the Marine Corps	
+First Sergeant	

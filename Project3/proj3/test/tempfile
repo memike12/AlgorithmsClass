@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "scoremaze.py", line 56, in <module>
+    maze, coins = readMaze(mazefn)
+  File "/home/mike/mich/SI335/Project3/proj3/showmaze.py", line 23, in readMaze
+    for colind in range(len(line)):
+KeyboardInterrupt

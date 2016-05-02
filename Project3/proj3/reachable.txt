@@ -1,0 +1,12 @@
+XXXXXXXXXXXXXXXXX
+   OX X   XX  X X
+X  O  XX X X  XXX
+X  X   O   X  XXX
+X    XXXX O    XX
+XX  X  X X  XXXXX
+XX XXX  X   X X X
+X      X   X XO X
+X XO XXX  X   XOX
+XXX      XO XX  X
+XXX XXXX OO      
+XXXXXXXXXXXXXXXXX
